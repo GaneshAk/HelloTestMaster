@@ -3,7 +3,7 @@ public class MasterHelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("this is helloworld master test");
+		System.out.println("this is helloworld maaaster test");
 
 	}
 
